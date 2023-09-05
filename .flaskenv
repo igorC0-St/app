@@ -1,0 +1,2 @@
+FLASK_APP = app.py
+FLASH_DEBUG=1
